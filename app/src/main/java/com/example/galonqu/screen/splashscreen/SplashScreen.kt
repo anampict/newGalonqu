@@ -1,4 +1,4 @@
-package com.example.galonqu.screen.Splashscreen
+package com.example.galonqu.screen.splashscreen
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
